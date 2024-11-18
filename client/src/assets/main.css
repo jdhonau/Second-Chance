@@ -1,0 +1,49 @@
+/* @import './base.css';
+
+* {
+  font-size: 16px;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}*/
+
+/* .animal-cards-grid {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 1.5rem;
+} */
+/*
+main.dark-mode {
+  background-color: #333;
+  color: #bfbfbf;
+  padding-bottom: 10px;
+}
+main.dark-mode .section-title {
+  color: #bfbfbf;
+}
+
+@media (max-width: 425px) {
+  * {
+    font-size: 14px; 
+  }
+
+  main.dark-mode {
+    background-color: #444; 
+    color: #eee; 
+  }
+
+  .animal-cards-grid {
+    grid-template-columns: 1fr; 
+  }
+
+  .card {
+    grid-template-columns: 1fr; 
+  }
+
+  .nav-links {
+    flex-direction: column; 
+    align-items: center;
+  }
+
+  .nav-links li {
+    margin: 0.5rem 0; 
+  }
+} */
